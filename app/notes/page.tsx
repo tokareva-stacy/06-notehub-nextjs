@@ -1,4 +1,4 @@
-'use client';
+// 'use client';
 
 import NoteList from "@/components/NoteList/NoteList";
 import { getNotes } from "@/lib/api";
